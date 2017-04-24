@@ -1,0 +1,40 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon (TM) R9 380 Series (ID=0x6939)
+    Vendor:   ATI
+    VRAM:     3072 MB
+    Driver:   21.19.137.1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\TITO\Documents\GitHub\CECS-343-Friday-GroupI\Illuminati Card Game 2D\Illuminati_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\TITO\Documents\GitHub\CECS-343-Friday-GroupI\Illuminati Card Game 2D\Illuminati_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\TITO\Documents\GitHub\CECS-343-Friday-GroupI\Illuminati Card Game 2D\Illuminati_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\TITO\Documents\GitHub\CECS-343-Friday-GroupI\Illuminati Card Game 2D\Illuminati_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\TITO\Documents\GitHub\CECS-343-Friday-GroupI\Illuminati Card Game 2D\Illuminati_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\TITO\Documents\GitHub\CECS-343-Friday-GroupI\Illuminati Card Game 2D\Illuminati_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\TITO\Documents\GitHub\CECS-343-Friday-GroupI\Illuminati Card Game 2D\Illuminati_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\TITO\Documents\GitHub\CECS-343-Friday-GroupI\Illuminati Card Game 2D\Illuminati_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.014 seconds
+Platform assembly: C:\Users\TITO\Documents\GitHub\CECS-343-Friday-GroupI\Illuminati Card Game 2D\Illuminati_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\TITO\Documents\GitHub\CECS-343-Friday-GroupI\Illuminati Card Game 2D\Illuminati_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.800730 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.182173 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 283.
+Total: 0.217716 ms (FindLiveObjects: 0.016365 ms CreateObjectMapping: 0.009643 ms MarkObjects: 0.133844 ms  DeleteObjects: 0.056986 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.704584 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 248.
+Total: 3.139214 ms (FindLiveObjects: 0.030100 ms CreateObjectMapping: 0.008474 ms MarkObjects: 0.214210 ms  DeleteObjects: 2.885552 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2ec8 -> priority: 1 
+  Thread -> id: 1274 -> priority: 1 

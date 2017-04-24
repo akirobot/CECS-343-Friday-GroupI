@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Illuminati.unity
+- path: Assets/Scenes/Illuminati.unity
   isLoaded: 1
   isActive: 1
