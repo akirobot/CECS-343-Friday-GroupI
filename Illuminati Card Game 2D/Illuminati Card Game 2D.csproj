@@ -82,6 +82,8 @@
     <Compile Include="Assets\Scripts\DebugFlipCard.cs" />
     <Compile Include="Assets\Scripts\DragAndDrop.cs" />
     <Compile Include="Assets\Scripts\DragHandler.cs" />
+    <Compile Include="Assets\Scripts\DragObject.cs" />
+    <Compile Include="Assets\Scripts\Draggable.cs" />
     <Compile Include="Assets\Scripts\MainMenuMusic.cs" />
     <Compile Include="Assets\Scripts\MenuActions.cs" />
     <Compile Include="Assets\Scripts\OpeningAudio.cs" />
