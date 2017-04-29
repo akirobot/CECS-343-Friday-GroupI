@@ -15,20 +15,44 @@ Platform assembly: C:\Users\TITO\Documents\GitHub\CECS-343-Friday-GroupI\Illumin
 Loading C:\Users\TITO\Documents\GitHub\CECS-343-Friday-GroupI\Illuminati Card Game 2D\Illuminati_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\TITO\Documents\GitHub\CECS-343-Friday-GroupI\Illuminati Card Game 2D\Illuminati_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading C:\Users\TITO\Documents\GitHub\CECS-343-Friday-GroupI\Illuminati Card Game 2D\Illuminati_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.533 seconds
+- Completed reload, in  0.082 seconds
 Platform assembly: C:\Users\TITO\Documents\GitHub\CECS-343-Friday-GroupI\Illuminati Card Game 2D\Illuminati_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\TITO\Documents\GitHub\CECS-343-Friday-GroupI\Illuminati Card Game 2D\Illuminati_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.982210 ms
+UnloadTime: 0.780859 ms
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.911269 ms
+UnloadTime: 3.059436 ms
 
-Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 283.
-Total: 0.211287 ms (FindLiveObjects: 0.016365 ms CreateObjectMapping: 0.009643 ms MarkObjects: 0.128584 ms  DeleteObjects: 0.056401 ms)
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 287.
+Total: 0.213917 ms (FindLiveObjects: 0.016365 ms CreateObjectMapping: 0.009643 ms MarkObjects: 0.130922 ms  DeleteObjects: 0.056401 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.790795 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 293.
+Total: 2.050047 ms (FindLiveObjects: 0.028639 ms CreateObjectMapping: 0.013150 ms MarkObjects: 0.140274 ms  DeleteObjects: 1.867106 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.234666 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 287.
+Total: 0.153424 ms (FindLiveObjects: 0.018410 ms CreateObjectMapping: 0.009643 ms MarkObjects: 0.116310 ms  DeleteObjects: 0.008767 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.230867 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 293.
+Total: 1.997444 ms (FindLiveObjects: 0.021625 ms CreateObjectMapping: 0.009643 ms MarkObjects: 0.121278 ms  DeleteObjects: 1.844604 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.277333 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 287.
+Total: 0.143196 ms (FindLiveObjects: 0.012858 ms CreateObjectMapping: 0.009059 ms MarkObjects: 0.113972 ms  DeleteObjects: 0.007305 ms)
 
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 423c -> priority: 1 
-  Thread -> id: 40f4 -> priority: 1 
+  Thread -> id: 2008 -> priority: 1 
+  Thread -> id: 5fc -> priority: 1 
