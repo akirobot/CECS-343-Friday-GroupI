@@ -15,20 +15,20 @@ Platform assembly: C:\Users\TITO\Documents\GitHub\CECS-343-Friday-GroupI\Illumin
 Loading C:\Users\TITO\Documents\GitHub\CECS-343-Friday-GroupI\Illuminati Card Game 2D\Illuminati_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\TITO\Documents\GitHub\CECS-343-Friday-GroupI\Illuminati Card Game 2D\Illuminati_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading C:\Users\TITO\Documents\GitHub\CECS-343-Friday-GroupI\Illuminati Card Game 2D\Illuminati_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.014 seconds
+- Completed reload, in  0.533 seconds
 Platform assembly: C:\Users\TITO\Documents\GitHub\CECS-343-Friday-GroupI\Illuminati Card Game 2D\Illuminati_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\TITO\Documents\GitHub\CECS-343-Friday-GroupI\Illuminati Card Game 2D\Illuminati_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.746666 ms
+UnloadTime: 0.982210 ms
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.070246 ms
+UnloadTime: 2.911269 ms
 
 Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 283.
-Total: 0.189369 ms (FindLiveObjects: 0.014904 ms CreateObjectMapping: 0.009643 ms MarkObjects: 0.108712 ms  DeleteObjects: 0.055525 ms)
+Total: 0.211287 ms (FindLiveObjects: 0.016365 ms CreateObjectMapping: 0.009643 ms MarkObjects: 0.128584 ms  DeleteObjects: 0.056401 ms)
 
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 1af0 -> priority: 1 
-  Thread -> id: 1ccc -> priority: 1 
+  Thread -> id: 423c -> priority: 1 
+  Thread -> id: 40f4 -> priority: 1 
