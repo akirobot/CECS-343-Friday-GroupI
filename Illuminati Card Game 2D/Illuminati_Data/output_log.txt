@@ -2,33 +2,40 @@ Initialize engine version: 5.6.0f3 (497a0f351392)
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: AMD Radeon (TM) R9 380 Series (ID=0x6939)
+    Renderer: AMD Radeon R6 (ID=0x9874)
     Vendor:   ATI
-    VRAM:     3072 MB
-    Driver:   21.19.137.1
+    VRAM:     2295 MB
+    Driver:   15.201.1101.0
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\TITO\Documents\GitHub\CECS-343-Friday-GroupI\Illuminati Card Game 2D\Illuminati_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\TITO\Documents\GitHub\CECS-343-Friday-GroupI\Illuminati Card Game 2D\Illuminati_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\TITO\Documents\GitHub\CECS-343-Friday-GroupI\Illuminati Card Game 2D\Illuminati_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\TITO\Documents\GitHub\CECS-343-Friday-GroupI\Illuminati Card Game 2D\Illuminati_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\TITO\Documents\GitHub\CECS-343-Friday-GroupI\Illuminati Card Game 2D\Illuminati_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\TITO\Documents\GitHub\CECS-343-Friday-GroupI\Illuminati Card Game 2D\Illuminati_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\TITO\Documents\GitHub\CECS-343-Friday-GroupI\Illuminati Card Game 2D\Illuminati_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\TITO\Documents\GitHub\CECS-343-Friday-GroupI\Illuminati Card Game 2D\Illuminati_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.014 seconds
-Platform assembly: C:\Users\TITO\Documents\GitHub\CECS-343-Friday-GroupI\Illuminati Card Game 2D\Illuminati_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\TITO\Documents\GitHub\CECS-343-Friday-GroupI\Illuminati Card Game 2D\Illuminati_Data\Managed\System.dll (this message is harmless)
-desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+Platform assembly: C:\Users\jeffr\Documents\GitHub\CECS-343-Friday-GroupI\Illuminati Card Game 2D\Illuminati_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\jeffr\Documents\GitHub\CECS-343-Friday-GroupI\Illuminati Card Game 2D\Illuminati_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\jeffr\Documents\GitHub\CECS-343-Friday-GroupI\Illuminati Card Game 2D\Illuminati_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\jeffr\Documents\GitHub\CECS-343-Friday-GroupI\Illuminati Card Game 2D\Illuminati_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\jeffr\Documents\GitHub\CECS-343-Friday-GroupI\Illuminati Card Game 2D\Illuminati_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\jeffr\Documents\GitHub\CECS-343-Friday-GroupI\Illuminati Card Game 2D\Illuminati_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\jeffr\Documents\GitHub\CECS-343-Friday-GroupI\Illuminati Card Game 2D\Illuminati_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\jeffr\Documents\GitHub\CECS-343-Friday-GroupI\Illuminati Card Game 2D\Illuminati_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.139 seconds
+Platform assembly: C:\Users\jeffr\Documents\GitHub\CECS-343-Friday-GroupI\Illuminati Card Game 2D\Illuminati_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\jeffr\Documents\GitHub\CECS-343-Friday-GroupI\Illuminati Card Game 2D\Illuminati_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.746666 ms
+UnloadTime: 2.897085 ms
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.070246 ms
+UnloadTime: 16.200424 ms
 
-Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 283.
-Total: 0.189369 ms (FindLiveObjects: 0.014904 ms CreateObjectMapping: 0.009643 ms MarkObjects: 0.108712 ms  DeleteObjects: 0.055525 ms)
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 287.
+Total: 0.671977 ms (FindLiveObjects: 0.050156 ms CreateObjectMapping: 0.041036 ms MarkObjects: 0.497001 ms  DeleteObjects: 0.081503 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.222802 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 292.
+Total: 8.040936 ms (FindLiveObjects: 0.056995 ms CreateObjectMapping: 0.041036 ms MarkObjects: 0.480472 ms  DeleteObjects: 7.459011 ms)
 
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 1af0 -> priority: 1 
-  Thread -> id: 1ccc -> priority: 1 
+  Thread -> id: 7e4 -> priority: 1 
+  Thread -> id: 1c44 -> priority: 1 
