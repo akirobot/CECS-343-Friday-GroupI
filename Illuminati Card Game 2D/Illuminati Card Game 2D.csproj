@@ -91,6 +91,8 @@
     <Compile Include="Assets\Scripts\OpeningLoader.cs" />
     <Compile Include="Assets\Scripts\SettingManager.cs" />
     <Compile Include="Assets\Scripts\SinglePlayerScript.cs" />
+    <Compile Include="Assets\Settings\GameSettings.cs" />
+    <Compile Include="Assets\Settings\SettingManager.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
