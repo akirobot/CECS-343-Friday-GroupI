@@ -1,8 +1,0 @@
-sceneSetups:
-<<<<<<< HEAD
-- path: Assets/Scenes/Main Menu.unity
-=======
-- path: Assets/Scenes/NumberOfPlayers.unity
->>>>>>> origin/master
-  isLoaded: 1
-  isActive: 1
