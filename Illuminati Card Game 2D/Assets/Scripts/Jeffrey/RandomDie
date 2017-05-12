@@ -1,0 +1,46 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+//using UnityEngine.Random;
+
+public class randomDie : MonoBehaviour {
+
+    //public Sprite[] image;
+    //SpriteRenderer renderer;
+    Image MyImageComponent;
+    public Sprite[] die;
+
+	// Use this for initialization
+	void Awake () {
+        //renderer = GetComponent<SpriteRenderer>();
+        MyImageComponent = GetComponent<Image>();
+
+	}
+	
+    public void RollDie() {
+        System.Random rng = new System.Random();
+        int i = rng.Next(0, 6);
+        MyImageComponent.sprite = die[i];
+    }
+    public void RollDie2()
+    {
+        System.Random random = new System.Random();
+        int j = random.Next(0, 12);
+        if(j ==0 || j == 2)
+        MyImageComponent.sprite = die[0];
+        else if(j == 1 || j == 4)
+        MyImageComponent.sprite = die[1];
+        else if (j == 3 || j == 7)
+        MyImageComponent.sprite = die[2];
+        else if (j == 6 || j == 10)
+        MyImageComponent.sprite = die[3];
+        else if (j == 11 || j == 9)
+        MyImageComponent.sprite = die[4];
+        else if (j == 5 || j == 8 || j == 12)
+        MyImageComponent.sprite = die[5];
+    }
+    void Update () {
+   
+	}
+}
